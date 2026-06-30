@@ -46,3 +46,43 @@ Return only: yes or no.
 Example (invalid due to vague object):
 ["models", "explain", "link between altered brain function and schizophrenia"] → no
 ```
+
+
+
+
+## Core Mental Health Topics
+
+The following 30 core Wikipedia topics form the backbone of the mental health context corpus used to construct the MHKG.
+
+| # | Topic |
+|---|-------|
+| 1 | Mental health |
+| 2 | Mental disorder |
+| 3 | Psychology |
+| 4 | Major depressive disorder |
+| 5 | Depression (mood) |
+| 6 | Bipolar disorder |
+| 7 | Schizophrenia |
+| 8 | Anxiety |
+| 9 | Anxiety disorder |
+| 10 | Personality disorder |
+| 11 | DSM-5 |
+| 12 | Diagnostic and Statistical Manual of Mental Disorders |
+| 13 | Classification of mental disorders |
+| 14 | Causes of mental disorders |
+| 15 | Antidepressant |
+| 16 | Psychotherapy |
+| 17 | Cognitive behavioral therapy |
+| 18 | Psychosis |
+| 19 | Post-traumatic stress disorder |
+| 20 | Eating disorder |
+| 21 | Dysthymia |
+| 22 | Panic attack |
+| 23 | Suicide |
+| 24 | Social psychology |
+| 25 | Personality |
+| 26 | Generalized anxiety disorder |
+| 27 | Borderline personality disorder |
+| 28 | Stress |
+| 29 | Mood swing |
+| 30 | Cognitive psychology |
