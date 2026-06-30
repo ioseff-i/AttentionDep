@@ -7,9 +7,10 @@ The following prompts were used with GPT-4o-mini for constructing the Mental Hea
 ### Triplet Extraction
 
 ```
-Your task is to transform the given text into a mental health related semantic graph in the form of a list of triples.
-The triples must be in the form of [Entity1, Relationship, Entity2]. In your answer, please strictly only include the
-triples and do not include any explanation or apologies. Keep the entities and relations as simple and short as possible,
+Your task is to transform the given text into a mental health related semantic graph in the form of
+a list of triples. The triples must be in the form of [Entity1, Relationship, Entity2]. In your answer,
+please strictly only include the triples and do not include any explanation or apologies.
+Keep the entities and relations as simple and short as possible,
 and do not make them long, if it is not necessary.
 
 Here are some examples:
@@ -50,7 +51,7 @@ Example (invalid due to vague object):
 
 ## Core Mental Health Topics
 
-The following 30 core Wikipedia topics form the backbone of the mental health context corpus used to construct the MHKG.
+The following 30 core Wikipedia topics.
 
 | # | Topic |
 |---|-------|
@@ -87,7 +88,7 @@ The following 30 core Wikipedia topics form the backbone of the mental health co
 
 ## Secondary Mental Health Topics
 
-The following 153 secondary Wikipedia topics provide expanded coverage of symptoms, causes, treatments, and related constructs, supporting fine-grained contextual representation in the MHKG.
+The following 153 secondary, extended set of mental health Wikipedia topics provide symptoms, causes, treatments, and related constructs.
 
 | # | Topic |
 |---|-------|
@@ -248,7 +249,7 @@ The following 153 secondary Wikipedia topics provide expanded coverage of sympto
 
 ## Normalised Relation Types
 
-The following 177 normalised and human-validated relation types are used to encode semantic links between mental health concepts in the MHKG.
+The following 177 normalised and human-validated relation types are.
 
 | # | Relation Type |
 |---|---------------|
