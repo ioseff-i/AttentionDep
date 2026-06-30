@@ -7,7 +7,10 @@ The following prompts were used with GPT-4o-mini for constructing the Mental Hea
 ### Triplet Extraction
 
 ```
-Your task is to transform the given text into a mental health related semantic graph in the form of a list of triples. The triples must be in the form of [Entity1, Relationship, Entity2]. In your answer, please strictly only include the triples and do not include any explanation or apologies. Keep the entities and relations as simple and short as possible, and do not make them long, if it is not necessary.
+Your task is to transform the given text into a mental health related semantic graph in the form of a list of triples.
+The triples must be in the form of [Entity1, Relationship, Entity2]. In your answer, please strictly only include the
+triples and do not include any explanation or apologies. Keep the entities and relations as simple and short as possible,
+and do not make them long, if it is not necessary.
 
 Here are some examples:
 {few_shot_examples}
